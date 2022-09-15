@@ -1,0 +1,7 @@
+README.txt
+.vscode
+.DS_Store
+*.o
+._*
+lib/MLX42_/*
+so_long
